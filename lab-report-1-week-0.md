@@ -6,8 +6,4 @@
 >[Fisrt Link]  
 [Lab Report 1](lab-report-1-week-0.html)
 
-  
->[Second Link]  
-[Lab Report 1](https://<arandersen>.github.io/cse15l-lab-report/lab-report-1-week-0.html)
-
 >[Link to Home Page](index.html)
